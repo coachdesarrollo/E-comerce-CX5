@@ -33,3 +33,4 @@ productos.forEach(function(camisetas){
 
 })
 
+comando
